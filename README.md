@@ -14,6 +14,6 @@ Atualmente meu foco está em arquitetura de software e na linguagem PHP, foi a p
 </details>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobolting&hide=html&layout=compact&theme=tokyonight" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brunobolting&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats-brunobolting.vercel.app/api/top-langs/?username=brunobolting&hide=html&layout=compact&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats-brunobolting.vercel.app/api?username=brunobolting&theme=tokyonight"/>
 </div>
